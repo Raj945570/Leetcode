@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Raj945570/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Raj945570/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
