@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Raj945570/Leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Raj945570/Leetcode/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Raj945570/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj945570/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -77,4 +79,13 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Raj945570/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
