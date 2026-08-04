@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Raj945570/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Raj945570/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Raj945570/Leetcode/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj945570/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj945570/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj945570/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj945570/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
