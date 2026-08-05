@@ -113,4 +113,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Raj945570/Leetcode/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Raj945570/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Raj945570/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Raj945570/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
