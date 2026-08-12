@@ -14,6 +14,7 @@
 | [0877-stone-game](https://github.com/Raj945570/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj945570/Leetcode/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj945570/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj945570/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/Raj945570/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Raj945570/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj945570/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj945570/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj945570/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj945570/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Raj945570/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raj945570/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Raj945570/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
 | ------- |
