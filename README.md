@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raj945570/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raj945570/Leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Raj945570/Leetcode/tree/master/0217-contains-duplicate) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raj945570/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj945570/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Raj945570/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Raj945570/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj945570/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raj945570/Leetcode/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raj945570/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -231,5 +234,14 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raj945570/Leetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
