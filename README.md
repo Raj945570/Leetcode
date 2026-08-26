@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj945570/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0875-koko-eating-bananas](https://github.com/Raj945570/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Raj945570/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Raj945570/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Raj945570/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/Raj945570/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj945570/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
