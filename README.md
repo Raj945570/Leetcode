@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Raj945570/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Raj945570/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Raj945570/Leetcode/tree/master/0509-fibonacci-number) |
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Raj945570/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj945570/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Raj945570/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
