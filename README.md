@@ -92,6 +92,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj945570/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Raj945570/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Raj945570/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raj945570/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Raj945570/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Raj945570/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Raj945570/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -135,6 +136,7 @@
 | [0125-valid-palindrome](https://github.com/Raj945570/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Raj945570/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raj945570/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Raj945570/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Raj945570/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raj945570/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
