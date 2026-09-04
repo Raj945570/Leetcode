@@ -34,6 +34,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj945570/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Raj945570/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Raj945570/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Raj945570/Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Raj945570/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
