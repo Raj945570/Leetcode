@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/Raj945570/Leetcode/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Raj945570/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Raj945570/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Raj945570/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Raj945570/Leetcode/tree/master/0605-can-place-flowers) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Raj945570/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raj945570/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Raj945570/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raj945570/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj945570/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Raj945570/Leetcode/tree/master/0392-is-subsequence) |
