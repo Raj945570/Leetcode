@@ -124,6 +124,7 @@
 | [0022-generate-parentheses](https://github.com/Raj945570/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Raj945570/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Raj945570/Leetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Raj945570/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Raj945570/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj945570/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Raj945570/Leetcode/tree/master/0392-is-subsequence) |
@@ -251,6 +252,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Raj945570/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/Raj945570/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raj945570/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -269,6 +271,7 @@
 | [0022-generate-parentheses](https://github.com/Raj945570/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Raj945570/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raj945570/Leetcode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/Raj945570/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raj945570/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
