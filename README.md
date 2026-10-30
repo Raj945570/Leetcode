@@ -161,6 +161,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raj945570/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raj945570/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Raj945570/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Raj945570/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -390,8 +392,13 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raj945570/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raj945570/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
