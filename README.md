@@ -19,6 +19,7 @@
 | [0875-koko-eating-bananas](https://github.com/Raj945570/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Raj945570/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raj945570/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Raj945570/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Raj945570/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Raj945570/Leetcode/tree/master/1563-stone-game-v) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Raj945570/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raj945570/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raj945570/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj945570/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Raj945570/Leetcode/tree/master/1872-stone-game-viii) |
@@ -98,6 +100,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Raj945570/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Raj945570/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raj945570/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raj945570/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Raj945570/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raj945570/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Raj945570/Leetcode/tree/master/1563-stone-game-v) |
@@ -404,4 +407,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raj945570/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raj945570/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
