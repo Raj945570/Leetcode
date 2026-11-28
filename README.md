@@ -56,6 +56,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Raj945570/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Raj945570/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Raj945570/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Raj945570/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raj945570/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raj945570/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raj945570/Leetcode/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Raj945570/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raj945570/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raj945570/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raj945570/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Raj945570/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raj945570/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Raj945570/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Raj945570/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
